@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BT Sport 2 [UK]
+magnet:?xt=urn:btih:01dcc1ea3387c2b73953efe3f52286a770737d7c
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BT Sport 3 [UK]
+magnet:?xt=urn:btih:d57ebd44296b0c92c0661cc964e737a54b852cec
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",Sky Sports Main Event [UK]
+magnet:?xt=urn:btih:78266c15035d0ad8cbc58f821733931e1de434ab
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BT Sport 1 [UK]
+magnet:?xt=urn:btih:19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
+#EXTINF:-1 acestream-autosearch="1" group-title="sport",BT Sport / ESPN [UK]
+magnet:?xt=urn:btih:2605c201c8c9cf6684ee1de562d3b4c7e17ac915
+#EXTINF:-1 group-title="sports",Canal Motor (720p)
+magnet:?xt=urn:btih:603d01c721d240eccc64050ec95ffbf6b06aad49
+#EXTINF:-1 group-title="sports",Super Tennis (1080p)
+magnet:?xt=urn:btih:13e4fde944f290845eb41d3395727cacebbfa608
